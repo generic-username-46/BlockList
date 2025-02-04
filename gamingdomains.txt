@@ -44,6 +44,42 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
+# Digital Extremes Ltd.
+# Warframe
+# 255.255.255.255
+# 239.255.255.250
+# 2.19.35.110
+# 205.185.216.42
+# 205.185.216.10
+# 2.19.35.110
+# 142.250.179.195
+# 91.225.12.178
+# 91.225.12.178
+# 216.58.214.19
+# 184.24.9.251
+# 85.159.214.213
+# 170.187.231.80
+# 45.33.58.33
+# 50.116.55.186
+#0.0.0.0 api.warframe.com # ClientIP, Login
+#0.0.0.0 www.warframe.com
+#0.0.0.0 origin.warframe.com # Cache
+#0.0.0.0 content.warframe.com # Download
+#0.0.0.0 update.googleapis.com # Launcher Update
+#0.0.0.0 cds.b5q9z7i8.hwcdn.net
+#0.0.0.0 fonts.googleapis.com
+#0.0.0.0 fonts.gstatic.com
+0.0.0.0 metrics.warframe.com
+0.0.0.0 arbiter.warframe.com
+0.0.0.0 crashes.warframe.com
+#0.0.0.0 85-159-214-213.ip.linodeusercontent.com
+#0.0.0.0 139-144-69-73.ip.linodeusercontent.com
+#0.0.0.0 104-237-145-11.ip.linodeusercontent.com
+#0.0.0.0 170-187-231-80.ip.linodeusercontent.com
+#0.0.0.0 45-33-58-33.ip.linodeusercontent.com
+#0.0.0.0 50-116-55-186.ip.linodeusercontent.com
+#0.0.0.0 a184-24-9-251.deploy.static.akamaitechnologies.com
+
 # Nexon America Inc.
 # MapleStory 2
 #0.0.0.0 web.nxfs.nexon.com
