@@ -1,0 +1,105 @@
+﻿#   ____                      ___           _           _                          
+#  / ___| __ _ _ __ ___   ___|_ _|_ __   __| |_   _ ___| |_ _ __ _   _   ___ _   _ 
+# | |  _ / _` | '_ ` _ \ / _ \| || '_ \ / _` | | | / __| __| '__| | | | / _ \ | | |
+# | |_| | (_| | | | | | |  __/| || | | | (_| | |_| \__ \ |_| |  | |_| ||  __/ |_| |
+#  \____|\__,_|_| |_| |_|\___|___|_| |_|\__,_|\__,_|___/\__|_|   \__, (_)___|\__,_|
+#                                                                |___/             
+#
+# Erhöhter Schutz vor Spyware, Advertising, Analytics, Tracking in Spielen, Programmen und Webseiten
+# Increased protection against spyware, advertising, analytics, tracking in games, programs and websites
+#
+# Version: Template für Spieleclients und Spiele
+# Version: Template for game clients and games
+# Change/Datum: 19.01.2025
+#
+# Weitere und aktuelle Spiele sind auf der Website zu finden.
+# More and current games can be found on the website.
+#
+# Source/Quelle: https://www.gameindustry.eu
+# E-Mail: https://gameindustry.eu/contact/
+# Hilfe: https://gameindustry.eu/faq/
+# Steam: https://www.steamcommunity.com/groups/Penguindome
+# Github: https://github.com/KodoPengin/GameIndustry-hosts-Template
+
+#
+# Lizenz: CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+#
+# License: CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+#
+# Es ist gestattet, die host Dateien für nicht-kommerzielle Zwecke zu verwenden,
+# solange auf angemessene Urheber/Rechteangaben mitsamt Link verwiesen wird.
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+# Nexon America Inc.
+# MapleStory 2
+#0.0.0.0 web.nxfs.nexon.com
+0.0.0.0 nxl.log.nexon.io
+0.0.0.0 www.google-analytics.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+# 208.64.200.105
+0.0.0.0 gds1.steampowered.com
+0.0.0.0 gds2.steampowered.com
+0.0.0.0 gds3.steampowered.com
+0.0.0.0 gds4.steampowered.com
+0.0.0.0 208-64-200-105.steampowered.com
+0.0.0.0 a1737.b.akamai.net
+0.0.0.0 bs.serving-sys.com
+#0.0.0.0 www.nexon.com
+#0.0.0.0 www.google.com # www.google+Länderkennung
+#0.0.0.0 apis.google.com
+#0.0.0.0 api.nexon.io
+#0.0.0.0 download2.nexon.net
+#0.0.0.0 s3-us-west-2.amazonaws.com
+#0.0.0.0 ugc.maplestory2.nexon.net
+#0.0.0.0 globalnps.aws.nexon.com
+#0.0.0.0 guard.nexon.net
+
+# The First Descendant
+0.0.0.0 toy.log.nexon.io # Debuglog
+0.0.0.0 jp.livelog.nexon.com # Logging
+0.0.0.0 psm-log.ngs.nexon.com # Logging
+0.0.0.0 nxnxp.vivox.com
+0.0.0.0 nxnxp.www.vivox.com
+0.0.0.0 nxnxp-ws.vivox.com
+0.0.0.0 nxnxp-mim.vivox.com
+0.0.0.0 watson.vivox.com
+0.0.0.0 cdp.vivox.com
+#0.0.0.0 tt-api.ngs.nexon.com
+0.0.0.0 sdk-push.mp.nexon.com # Policy
+0.0.0.0 gtable.inface.nexon.com
+0.0.0.0 d30y0swoxkbnsm.cloudfront.net # Ingame Ads
+0.0.0.0 jyp.nexon.com
+0.0.0.0 livestream.inface.nexon.com
+#0.0.0.0 config.na.nexon.com # Timesync, UserIP, NexonAnalytics SDK
+#0.0.0.0 tfd.dn.nexoncdn.co.kr
+#0.0.0.0 public.api.nexon.com # UserInfo, Login/Last Login
+#0.0.0.0 api.epicgames.dev # OAuth, Telemetry, Notifications
+#0.0.0.0 sv.symcd.com # OCSP
+#0.0.0.0 ocsp.digicert.com # OCSP
+#0.0.0.0 login.steampowered.com
+#0.0.0.0 maglatencygermanywc.blob.core.windows.net # test.json
+#0.0.0.0 maglatencypolandcentral.blob.core.windows.net # test.json
+#0.0.0.0 maglatencynorthcentralus.blob.core.windows.net # test.json
+#0.0.0.0 maglatencywestus.blob.core.windows.net # test.json
+#0.0.0.0 maglatencyeastus.blob.core.windows.net # test.json
+#0.0.0.0 maglatencysouthea.blob.core.windows.net # test.json
+#0.0.0.0 maglatencybrazilsouth.blob.core.windows.net # test.json
+#0.0.0.0 maglatencyeastasia.blob.core.windows.net # test.json
+#0.0.0.0 maglatencykoreacentral.blob.core.windows.net # test.json
+#0.0.0.0 maglatencygermanywc.blob.core.windows.net # test.json
+#0.0.0.0 maglatencypolandcentral.blob.core.windows.net # test.json
