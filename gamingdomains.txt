@@ -139,3 +139,16 @@ ff02::3 ip6-allhosts
 #0.0.0.0 maglatencykoreacentral.blob.core.windows.net # test.json
 #0.0.0.0 maglatencygermanywc.blob.core.windows.net # test.json
 #0.0.0.0 maglatencypolandcentral.blob.core.windows.net # test.json
+
+#oculus blocklist
+0.0.0.0 oculus.c10r.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 www2.oculus.com
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 star-mini.c10r.facebook.com
+#0.0.0.0 scontent.oculuscdn.com
+#0.0.0.0 graph.oculus.com
+#0.0.0.0 securecdn.oculus.com
+
